@@ -5,7 +5,7 @@
 %global crate seahash
 
 Name:           rust-%{crate}
-Version:        3.0.7
+Version:        4.1.0
 Release:        1%{?dist}
 Summary:        Blazingly fast, portable hash function with proven statistical guarantees
 
